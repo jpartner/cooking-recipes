@@ -1,0 +1,11 @@
+{
+  "name": "cooking-recipes",
+  "private": true,
+  "scripts": {
+    "build": "hugo --minify && npx pagefind --site public",
+    "serve": "hugo server"
+  },
+  "devDependencies": {
+    "pagefind": "^1.4.0"
+  }
+}

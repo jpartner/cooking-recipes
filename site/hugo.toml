@@ -1,0 +1,18 @@
+baseURL = "https://jpartner.github.io/cooking-recipes/"
+languageCode = "en"
+title = "Cooking Recipes"
+theme = "hugo-book"
+
+[params]
+  BookTheme = "light"
+  BookToC = true
+  BookSearch = false
+  BookSection = "/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4

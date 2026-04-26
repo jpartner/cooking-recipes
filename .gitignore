@@ -1,0 +1,6 @@
+site/public/
+site/resources/
+site/node_modules/
+site/.hugo_build.lock
+recipes_raw/
+recipes.zip
