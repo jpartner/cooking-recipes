@@ -92,3 +92,4 @@ Warm or at room temperature. Excellent with creme fraiche, double cream, or the 
 - **Frangipane ratio:** the classic is equal weights of butter, sugar, and almonds. Easy to scale — 100g of each for a smaller tart, 150g for a deeper one.
 - **Calvados (optional):** for a properly Normandy version, add 2 tbsp Calvados to the frangipane and brush the blind-baked pastry base with another tablespoon before filling.
 - **Keeps:** 2–3 days at room temperature, loosely covered. Reheat gently in a low oven to refresh.
+- **Sugar in Poland:** cukier drobny (fine sugar, sometimes labelled "do wypieków") is the closest to caster sugar and works best for creaming with butter. Regular cukier biały is fine — just beat for an extra minute to dissolve fully. Diamant and Südzucker both sell a fine version.

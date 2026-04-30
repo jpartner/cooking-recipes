@@ -68,3 +68,4 @@ Remove from the freezer 10–15 minutes before serving — proper ice cream need
 - **Salt:** flaky salt on top at serving is non-negotiable. It lifts the whole thing. Fine table salt dissolves and disappears — you want the crunch.
 - **Egg whites:** save them for meringues or freeze for later.
 - **Keeps:** 2 weeks in the freezer before ice crystals start to develop.
+- **Sugar in Poland:** regular cukier biały works well for the caramel — larger crystals just take a little longer to melt. For the custard, cukier drobny (fine sugar, sometimes labelled "do wypieków") dissolves more easily when whisking with yolks. Regular white sugar works too — just beat for an extra minute.
