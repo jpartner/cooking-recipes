@@ -72,6 +72,14 @@ Peel, core, and cut into thin slices (~3mm). Toss with lemon juice to prevent br
 
 Warm the apricot jam with 1 tbsp water in a small pan, sieve to remove lumps, then brush over the warm tart. This gives the classic glossy finish.
 
+**Alternatives if apricot jam is hard to find:**
+
+- **Honey + water** (2 tbsp honey, 1 tbsp water, warmed) — similar gloss, slightly different flavour but pairs well with apple
+- **Apple jelly/jam** — closest match in colour and flavour
+- **Redcurrant jelly** — gives a slight pink tint but classic on fruit tarts
+- **Maple syrup** — brush on warm straight from the bottle, no heating needed
+- Or skip the glaze entirely — the tart is still excellent, just slightly less shiny
+
 ## Serve
 
 Warm or at room temperature. Excellent with creme fraiche, double cream, or the salted caramel ice cream.
