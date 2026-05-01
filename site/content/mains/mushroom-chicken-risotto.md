@@ -94,3 +94,4 @@ Plate immediately — risotto waits for no one. Finish with chopped parsley, a c
 - **Don't rinse the rice.** The surface starch is what makes risotto creamy.
 - **Resting chicken** before slicing keeps it juicy when it's folded back in at the end.
 - **Sous vide advantage:** chicken breast dries out easily with pan cooking alone. Sous vide at 62°C keeps it uniformly juicy — the risotto's residual heat warms it through without overcooking. A quick post-sear gives you the best of both worlds: fond for the mushrooms and moist chicken.
+- **Charred asparagus (optional):** snap a bunch of asparagus, toss with olive oil and salt, and char on a griddle or hot pan while the risotto is in its final stages. Chop into 2–3cm pieces and fold in at the very end with the chicken and mushrooms. Keeps its bite and adds freshness against the rich truffle and parmesan.
