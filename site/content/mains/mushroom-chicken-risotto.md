@@ -45,11 +45,13 @@ Combine the warm chicken stock and strained cep soaking liquid in a saucepan. Ke
 
 ### 2. Cook the chicken
 
-Season the chicken breasts with salt and pepper. Heat 1 tbsp olive oil in a large pan over medium-high heat. Sear for 4–5 minutes per side until golden and cooked through. Rest for 5 minutes, then slice or shred into bite-sized pieces. Set aside.
+**Pan method:** Season the chicken breasts with salt and pepper. Heat 1 tbsp olive oil in a large pan over medium-high heat. Sear for 4–5 minutes per side until golden and cooked through. Rest for 5 minutes, then slice or shred into bite-sized pieces. Set aside.
+
+**Sous vide method (recommended):** Season the chicken breasts with salt and pepper, vacuum seal with a sprig of thyme. Cook at **62°C for 1 hour**. Can be done well ahead — chill the sealed bag in ice water and refrigerate until needed. Slice or shred before folding into the risotto. Optionally sear briefly in a hot pan after sous vide for colour and fond — 30 seconds per side is enough.
 
 ### 3. Cook the mushrooms
 
-In the same pan, add the sliced button mushrooms and the chopped rehydrated ceps. Cook over high heat for 5–6 minutes until golden and any moisture has evaporated. Don't crowd the pan — you want colour, not steam. Season lightly and set aside with the chicken.
+In the same pan (use the fond from searing if you have it), add the sliced button mushrooms and the chopped rehydrated ceps. Cook over high heat for 5–6 minutes until golden and any moisture has evaporated. Don't crowd the pan — you want colour, not steam. Season lightly and set aside with the chicken.
 
 ### 4. Build the risotto base
 
@@ -91,3 +93,4 @@ Plate immediately — risotto waits for no one. Finish with chopped parsley, a c
 - **Wine:** something dry and drinkable — pinot grigio, sauvignon blanc, or a dry vermouth. If you wouldn't drink it, don't cook with it.
 - **Don't rinse the rice.** The surface starch is what makes risotto creamy.
 - **Resting chicken** before slicing keeps it juicy when it's folded back in at the end.
+- **Sous vide advantage:** chicken breast dries out easily with pan cooking alone. Sous vide at 62°C keeps it uniformly juicy — the risotto's residual heat warms it through without overcooking. A quick post-sear gives you the best of both worlds: fond for the mushrooms and moist chicken.
