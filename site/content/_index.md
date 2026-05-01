@@ -8,6 +8,7 @@ A collection of tried-and-tested recipes.
 
 ## Sections
 
+- [Basics]({{< relref "/basics" >}}) — Sauces, dressings, and building blocks
 - [Bread]({{< relref "/bread" >}}) — Sourdough recipes and variants
 - [Fermentation]({{< relref "/fermentation" >}}) — Kimchi and other ferments
 - [Snacks]({{< relref "/snacks" >}}) — Granola and other batch snacks
