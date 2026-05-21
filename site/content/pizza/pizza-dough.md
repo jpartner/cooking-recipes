@@ -1,9 +1,9 @@
 ---
-title: "Pizza Dough"
+title: "Pizza Dough — 22h Pulcinella W260"
 weight: 1
 ---
 
-# Pizza Dough
+# Pizza Dough — 22h Pulcinella W260
 
 22-hour pizza dough using Pulcinella Type 0 (W260) flour. Makes 4 balls at ~290g each — enough for 4 x 12-inch pizzas. Long cold retard for flavour, baked at 270°C on a cast iron plate.
 

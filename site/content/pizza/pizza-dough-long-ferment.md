@@ -1,9 +1,9 @@
 ---
-title: "Pizza Dough — Long Ferment"
+title: "Pizza Dough — 48h Pizzuti 00 W310"
 weight: 2
 ---
 
-# Pizza Dough — Long Ferment
+# Pizza Dough — 48h Pizzuti 00 W310
 
 48-hour pizza dough using Molini Pizzuti Type 00 Costa d'Amalfi flour (W310). Makes 4 balls at ~290g each — enough for 4 x 12-inch pizzas. The long, cold fermentation develops complex flavour and an airy, digestible crust.
 
