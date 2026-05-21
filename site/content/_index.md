@@ -13,4 +13,5 @@ A collection of tried-and-tested recipes.
 - [Fermentation]({{< relref "/fermentation" >}}) — Kimchi and other ferments
 - [Snacks]({{< relref "/snacks" >}}) — Granola and other batch snacks
 - [Mains]({{< relref "/mains" >}}) — Main dishes and dinners
+- [Pizza]({{< relref "/pizza" >}}) — Pizza doughs and toppings
 - [Desserts]({{< relref "/desserts" >}}) — Sweet things and baking
