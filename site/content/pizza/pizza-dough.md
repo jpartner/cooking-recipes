@@ -5,31 +5,31 @@ weight: 1
 
 # Pizza Dough — 22h Pulcinella W260
 
-22-hour pizza dough using Pulcinella Type 0 (W260) flour. Makes 4 balls at ~290g each — enough for 4 x 12-inch pizzas. Long cold retard for flavour, baked at 270°C on a cast iron plate.
+22-hour pizza dough using Pulcinella Type 0 (W260) flour. Makes 4 balls at ~460g each — enough for 4 x 15-inch pizzas. Long cold retard for flavour, baked at 270°C on a cast iron plate.
 
 ## Ingredients
 
 | Ingredient | Amount |
 |---|---|
-| Pulcinella Flour 0 (W260) | 700g |
-| Water (room temp) | 441g (63% hydration) |
-| Salt | 21g (3%) |
-| Olive oil | 14g (2%) |
-| Caputo dried yeast | 1g |
+| Pulcinella Flour 0 (W260) | 1090g |
+| Water (room temp) | 687g (63% hydration) |
+| Salt | 33g (3%) |
+| Olive oil | 22g (2%) |
+| Caputo dried yeast | 1.5g |
 
 ### Sourdough variant
 
-Replace the dried yeast with **140g active sourdough starter** (100% hydration) and adjust the flour and water to account for what the starter contributes:
+Replace the dried yeast with **220g active sourdough starter** (100% hydration) and adjust the flour and water to account for what the starter contributes:
 
 | Ingredient | Amount |
 |---|---|
-| Pulcinella Flour 0 (W260) | 630g |
-| Water (room temp) | 371g |
-| Salt | 21g |
-| Olive oil | 14g |
-| Sourdough starter (100% hydration, active) | 140g |
+| Pulcinella Flour 0 (W260) | 980g |
+| Water (room temp) | 577g |
+| Salt | 33g |
+| Olive oil | 22g |
+| Sourdough starter (100% hydration, active) | 220g |
 
-Totals remain the same — 700g flour, 441g water, 63% hydration.
+Totals remain the same — 1090g flour, 687g water, 63% hydration.
 
 ## Method
 
@@ -43,7 +43,7 @@ Place in the proving container at 22–24°C. Give it a set of stretch-and-folds
 
 ### 3. Ball up
 
-Turn the dough out onto a lightly floured surface. Divide into 4 equal pieces (~290g each). Shape each into a tight ball — pull the edges underneath and pinch the seam, then cup your hands around the ball on the work surface and drag it toward you to build tension on the top. Place seam-side down in a lightly oiled container or on a tray with space between each ball. Cover tightly.
+Turn the dough out onto a lightly floured surface. Divide into 4 equal pieces (~460g each). Shape each into a tight ball — pull the edges underneath and pinch the seam, then cup your hands around the ball on the work surface and drag it toward you to build tension on the top. Place seam-side down in a lightly oiled container or on a tray with space between each ball. Cover tightly.
 
 ### 4. Cold retard (16–18 hours)
 

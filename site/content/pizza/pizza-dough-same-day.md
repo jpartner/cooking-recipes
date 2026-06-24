@@ -5,17 +5,17 @@ weight: 3
 
 # Pizza Dough — 5h Same-Day Pulcinella W260
 
-Same-day pizza dough using Pulcinella Type 0 (W260) flour. Makes 4 balls at ~290g each — enough for 4 x 12-inch pizzas. No cold retard — everything happens at room temperature. Less complex than the overnight versions but still a proper dough with good texture.
+Same-day pizza dough using Pulcinella Type 0 (W260) flour. Makes 4 balls at ~460g each — enough for 4 x 15-inch pizzas. No cold retard — everything happens at room temperature. Less complex than the overnight versions but still a proper dough with good texture.
 
 ## Ingredients
 
 | Ingredient | Amount |
 |---|---|
-| Pulcinella Flour 0 (W260) | 700g |
-| Water (warm, ~30°C) | 441g (63% hydration) |
-| Salt | 21g (3%) |
-| Olive oil | 14g (2%) |
-| Caputo dried yeast | 3g |
+| Pulcinella Flour 0 (W260) | 1090g |
+| Water (warm, ~30°C) | 687g (63% hydration) |
+| Salt | 33g (3%) |
+| Olive oil | 22g (2%) |
+| Caputo dried yeast | 4.5g |
 
 ## Schedule
 
@@ -40,7 +40,7 @@ Place in the proving container at 24–26°C — a warm spot in the kitchen is f
 
 ### 3. Ball up
 
-Divide into 4 equal pieces (~290g each). Shape into tight balls — pull the edges underneath and pinch the seam, then cup your hands around the ball and drag toward you to build surface tension. Place seam-side down in a lightly oiled container or on a tray with space between each ball. Cover tightly.
+Divide into 4 equal pieces (~460g each). Shape into tight balls — pull the edges underneath and pinch the seam, then cup your hands around the ball and drag toward you to build surface tension. Place seam-side down in a lightly oiled container or on a tray with space between each ball. Cover tightly.
 
 ### 4. Room temp proof (2 hours)
 
@@ -66,4 +66,4 @@ Slide the pizza onto the hot cast iron plate. Bake until the base is charred in 
 - **More yeast:** 3g vs 1g in the overnight recipe. Necessary because there's no long cold ferment — the dough needs to be fully proofed in ~3.5 hours total.
 - **Flavour:** same-day dough won't have the same depth as a 22h or 48h ferment. A pinch of sugar (5g) in the dough can help with browning but isn't essential.
 - **Warm room:** if your kitchen is cool (<22°C), proof the dough in the oven with just the light on, or in a microwave with a cup of hot water.
-- **If you have 6–7 hours:** reduce the yeast to 2g and let the bulk ferment run to 2 hours. The slower ferment gives slightly better flavour.
+- **If you have 6–7 hours:** reduce the yeast to 3g and let the bulk ferment run to 2 hours. The slower ferment gives slightly better flavour.
