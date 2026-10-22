@@ -1,5 +1,5 @@
 baseURL = "https://jpartner.github.io/cooking-recipes/"
-languageCode = "en"
+defaultContentLanguage = "en"
 title = "Cooking Recipes"
 theme = "hugo-book"
 
@@ -16,3 +16,14 @@ theme = "hugo-book"
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 4
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    languageCode = "en"
+    weight = 1
+  [languages.pl]
+    languageName = "Polski"
+    languageCode = "pl"
+    title = "Przepisy kulinarne"
+    weight = 2
