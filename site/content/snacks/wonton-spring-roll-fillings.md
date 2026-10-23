@@ -34,7 +34,9 @@ The classic wonton filling — juicy, springy, and savoury. Boil, steam, pan-fry
 2. **Season the pork:** mix the pork with all the seasonings except the water. Stir hard in one direction for 2–3 minutes until sticky and paste-like.
 3. **Add the water** a spoonful at a time, beating it in — this keeps the filling juicy.
 4. **Fold in** the prawns, water chestnuts, and spring onion.
-5. **Rest** in the fridge for 30–60 minutes before wrapping.
+5. **Rest** in the fridge for 30–60 minutes before wrapping — this works like a marinade and firms the filling up for easier wrapping.
+
+**Optional extras:** 1 small garlic clove (grated), a few rehydrated dried shiitake (finely chopped), or a little finely grated carrot for colour. This filling also works in spring rolls — add some shredded cabbage and bamboo.
 
 ## 2. Beef & Water Chestnut Wontons
 

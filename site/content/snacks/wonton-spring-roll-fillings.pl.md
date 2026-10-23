@@ -34,7 +34,9 @@ Klasyczny farsz do wontonów — soczysty, sprężysty i wytrawny. Można je got
 2. **Dopraw wieprzowinę:** wymieszaj mięso ze wszystkimi przyprawami oprócz wody. Energicznie mieszaj w jednym kierunku przez 2–3 minuty, aż masa stanie się kleista, o konsystencji pasty.
 3. **Dodawaj wodę** po łyżce, za każdym razem dokładnie ją wmieszując — dzięki temu farsz będzie soczysty.
 4. **Wmieszaj** krewetki, kasztany wodne i dymkę.
-5. **Odstaw** do lodówki na 30–60 minut przed zawijaniem.
+5. **Odstaw** do lodówki na 30–60 minut przed zawijaniem — farsz w tym czasie się „marynuje” i tężeje, więc łatwiej go zawijać.
+
+**Opcjonalne dodatki:** 1 mały ząbek czosnku (starty), kilka namoczonych suszonych grzybów shiitake (drobno posiekanych) albo odrobina drobno startej marchewki dla koloru. Ten farsz sprawdzi się też w sajgonkach — dodaj trochę poszatkowanej kapusty i bambusa.
 
 ## 2. Wontony z wołowiną i kasztanami wodnymi
 
