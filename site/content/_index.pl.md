@@ -4,9 +4,14 @@ title: "Przepisy kulinarne"
 
 # Przepisy kulinarne
 
-Zbiór sprawdzonych przepisów. Na razie tylko część z nich jest dostępna po polsku — pozostałe znajdziesz w [wersji angielskiej]({{< relref path="/" lang="en" >}}).
+Zbiór sprawdzonych przepisów.
 
 ## Działy
 
-- [Przekąski]({{< relref "/snacks" >}}) — przekąski, pasty i dipy
+- [Podstawy]({{< relref "/basics" >}}) — sosy, dressingi i baza do innych dań
+- [Chleb]({{< relref "/bread" >}}) — chleby na zakwasie i ich warianty
+- [Fermentacja]({{< relref "/fermentation" >}}) — kimchi i inne kiszonki
+- [Przekąski]({{< relref "/snacks" >}}) — granola, pasty i inne przekąski
+- [Dania główne]({{< relref "/mains" >}}) — dania główne i obiady
+- [Pizza]({{< relref "/pizza" >}}) — ciasta do pizzy i dodatki
 - [Desery]({{< relref "/desserts" >}}) — słodkości i wypieki

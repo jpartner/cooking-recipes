@@ -19,11 +19,11 @@ theme = "hugo-book"
 
 [languages]
   [languages.en]
-    languageName = "English"
-    languageCode = "en"
+    label = "English"
+    locale = "en"
     weight = 1
   [languages.pl]
-    languageName = "Polski"
-    languageCode = "pl"
+    label = "Polski"
+    locale = "pl"
     title = "Przepisy kulinarne"
     weight = 2

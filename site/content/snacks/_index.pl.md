@@ -6,4 +6,4 @@ bookCollapseSection: false
 
 # Przekąski
 
-Przekąski, pasty i dipy.
+Granola, pasty, dipy i inne przekąski.
