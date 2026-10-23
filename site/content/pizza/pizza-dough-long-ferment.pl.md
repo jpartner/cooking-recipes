@@ -70,9 +70,9 @@ Na rozgrzaną żeliwną płytę. Brzeg powinien efektownie wyrosnąć — długa
 ## Uwagi
 
 - **Zimna woda:** używaj wody prosto z lodówki. Ciasto ogrzeje się podczas mieszania i fermentacji głównej — start od zimnej wody zapobiega zbyt szybkiej fermentacji, zanim ciasto trafi do lodówki.
-- **0,5g drożdży:** to naprawdę niewiele — około 1/4 łyżeczki. Przy 48 godzinach fermentacji potrzeba bardzo mało. Za dużo, a ciasto przerośnie w lodówce, opadnie i będzie smakować drożdżami. Przyda się tu waga elektroniczna z dokładnością do 0,1g.
+- **0,8g drożdży:** to naprawdę niewiele — około 1/4 łyżeczki. Przy 48 godzinach fermentacji potrzeba bardzo mało. Za dużo, a ciasto przerośnie w lodówce, opadnie i będzie smakować drożdżami. Przyda się tu waga elektroniczna z dokładnością do 0,1g.
 - **Hydratacja:** 65% dobrze sprawdza się z typem 00 W310 — mocniejszy gluten radzi sobie z dodatkową wodą i długą fermentacją. Jeśli czujesz się pewnie, podnieś do 67%, a wyjdzie jeszcze lżej.
-- **Czas przy zakwasie:** fermentacja główna może potrzebować dodatkowych 30–60 minut, bo zakwas wolniej się rozkręca. Użyj mniej zakwasu (100g zamiast 140g w krótszym przepisie), żeby ciasto nie przerosło podczas długiej fermentacji w lodówce.
+- **Czas przy zakwasie:** fermentacja główna może potrzebować dodatkowych 30–60 minut, bo zakwas wolniej się rozkręca. Użyj mniej zakwasu (160g zamiast 220g w przepisie 22-godzinnym), żeby ciasto nie przerosło podczas długiej fermentacji w lodówce.
 - **Temperatura lodówki ma znaczenie.** Idealnie 3–5°C. Jeśli twoja lodówka jest cieplejsza (6°C i więcej), ciasto może przerosnąć — sprawdź je po 36 godzinach i upiecz wcześniej, jeśli kule się spłaszczyły albo mocno pachną kwaśno.
 - **Wersja 72-godzinna:** zmniejsz ilość drożdży do 0,5g (albo zakwasu do 110g), a resztę zostaw bez zmian. Ciasto będzie jeszcze bardziej aromatyczne, ale też delikatniejsze — przy formowaniu obchodź się z nim bardzo ostrożnie. Po 60 godzinach sprawdź, czy nie ma oznak przerośnięcia.
 - **Szczelny pojemnik:** szczelny plastikowy pojemnik zapobiega obsychaniu i tworzeniu się skórki na kulach podczas długiego pobytu w lodówce. Nie trzeba smarować powierzchni oliwą ani przykrywać folią spożywczą.

@@ -71,8 +71,8 @@ Slide the pizza onto the hot cast iron plate. Bake until the base is charred in 
 
 - **Flour:** Pulcinella Type 0 W260 peaks at ~18 hours fermentation. The 22-hour schedule (2–3h bulk + 16–18h cold + 2h warm-up) sits comfortably in its range.
 - **Hydration:** 63% is a good starting point for this flour. If the dough feels easy to handle after a few bakes, push to 65% next time for a more open crumb.
-- **Yeast amount:** 1g dried yeast is very little — that's deliberate. The long cold retard does the work. More yeast risks over-proofing in the fridge.
+- **Yeast amount:** 1.5g dried yeast is very little — that's deliberate. The long cold retard does the work. More yeast risks over-proofing in the fridge.
 - **Sourdough timing:** sourdough is slower to get going, so the bulk ferment may run closer to 3 hours. Judge by volume and feel, not the clock. Make sure the starter is at peak activity (doubled, domed, passes the float test) before mixing.
 - **Cast iron plate:** 10mm cast iron holds serious heat. The first pizza will bake fastest — after that, give the plate 5 minutes between pizzas to recover.
 - **Shaping:** if the dough tears, it's either under-proofed or too cold. Let it rest 10 minutes and try again.
-- **Same-day shortcut:** if you only have 8–10 hours, increase the yeast to 2g, bulk ferment for 1.5 hours at 24°C, ball up, and cold retard for the remaining time. Less flavour but still decent.
+- **Same-day shortcut:** if you only have 8–10 hours, increase the yeast to 3g, bulk ferment for 1.5 hours at 24°C, ball up, and cold retard for the remaining time. Less flavour but still decent.

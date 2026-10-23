@@ -63,7 +63,7 @@ Slide the pizza onto the hot cast iron plate. Bake until the base is charred in 
 ## Notes
 
 - **Warm water:** 30°C water gives the yeast a head start. Don't go above 35°C — that starts to stress the yeast.
-- **More yeast:** 3g vs 1g in the overnight recipe. Necessary because there's no long cold ferment — the dough needs to be fully proofed in ~3.5 hours total.
+- **More yeast:** 4.5g vs 1.5g in the overnight recipe. Necessary because there's no long cold ferment — the dough needs to be fully proofed in ~3.5 hours total.
 - **Flavour:** same-day dough won't have the same depth as a 22h or 48h ferment. A pinch of sugar (5g) in the dough can help with browning but isn't essential.
 - **Warm room:** if your kitchen is cool (<22°C), proof the dough in the oven with just the light on, or in a microwave with a cup of hot water.
 - **If you have 6–7 hours:** reduce the yeast to 3g and let the bulk ferment run to 2 hours. The slower ferment gives slightly better flavour.

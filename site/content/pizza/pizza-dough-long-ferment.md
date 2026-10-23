@@ -70,9 +70,9 @@ Onto the hot cast iron plate. The rim should puff dramatically — the long ferm
 ## Notes
 
 - **Cold water:** use fridge-cold water. The dough will warm up during mixing and bulk ferment — starting cold keeps it from fermenting too fast before it hits the fridge.
-- **0.5g yeast:** this is tiny — about 1/4 teaspoon. With 48 hours of fermentation, you need very little. Too much and the dough over-proofs in the fridge, collapses, and tastes yeasty. A digital scale that reads to 0.1g is useful here.
+- **0.8g yeast:** this is tiny — about 1/4 teaspoon. With 48 hours of fermentation, you need very little. Too much and the dough over-proofs in the fridge, collapses, and tastes yeasty. A digital scale that reads to 0.1g is useful here.
 - **Hydration:** 65% works well with Type 00 W310 — the stronger gluten handles the extra water and the long ferment. If you're comfortable, push to 67% for an even lighter result.
-- **Sourdough timing:** the bulk ferment may need an extra 30–60 minutes since sourdough is slower to get going. Use less starter (100g vs 140g in the short recipe) to avoid over-proofing during the long cold retard.
+- **Sourdough timing:** the bulk ferment may need an extra 30–60 minutes since sourdough is slower to get going. Use less starter (160g vs 220g in the 22h recipe) to avoid over-proofing during the long cold retard.
 - **Fridge temperature matters.** 3–5°C is ideal. If your fridge runs warm (6°C+), the dough may over-proof — check at 36 hours and bake earlier if the balls have flattened or smell strongly acidic.
 - **72-hour extension:** reduce the yeast to 0.5g (or starter to 110g) and keep everything else the same. The dough will be even more flavourful but more fragile — handle very gently when shaping. Check at 60 hours for signs of over-proofing.
 - **Sealed container:** the sealed plastic container prevents the dough balls from skinning over during the long fridge stay. No need to oil the surface or cover with cling film.

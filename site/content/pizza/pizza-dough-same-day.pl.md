@@ -63,7 +63,7 @@ Zsuń pizzę na rozgrzaną żeliwną płytę. Piecz, aż spód będzie miejscami
 ## Uwagi
 
 - **Ciepła woda:** woda o temperaturze 30°C daje drożdżom dobry start. Nie przekraczaj 35°C — powyżej drożdże zaczynają się męczyć.
-- **Więcej drożdży:** 3g zamiast 1g w przepisie nocnym. To konieczne, bo nie ma długiej fermentacji w lodówce — ciasto musi być w pełni wyrośnięte w sumie w ok. 3,5 godziny.
+- **Więcej drożdży:** 4,5g zamiast 1,5g w przepisie nocnym. To konieczne, bo nie ma długiej fermentacji w lodówce — ciasto musi być w pełni wyrośnięte w sumie w ok. 3,5 godziny.
 - **Smak:** ciasto robione tego samego dnia nie będzie miało takiej głębi jak po 22- czy 48-godzinnej fermentacji. Szczypta cukru (5g) w cieście pomoże w zarumienieniu, ale nie jest niezbędna.
 - **Ciepłe pomieszczenie:** jeśli w kuchni jest chłodno (<22°C), garuj ciasto w piekarniku z włączonym tylko światłem albo w mikrofalówce z kubkiem gorącej wody.
 - **Jeśli masz 6–7 godzin:** zmniejsz ilość drożdży do 3g i wydłuż fermentację główną do 2 godzin. Wolniejsza fermentacja da nieco lepszy smak.

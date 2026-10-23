@@ -71,8 +71,8 @@ Zsuń pizzę na rozgrzaną żeliwną płytę. Piecz, aż spód będzie miejscami
 
 - **Mąka:** Pulcinella typ 0 W260 osiąga szczyt możliwości przy ok. 18 godzinach fermentacji. Harmonogram 22-godzinny (2–3h fermentacji głównej + 16–18h w lodówce + 2h ogrzewania) mieści się wygodnie w jej zakresie.
 - **Hydratacja:** 63% to dobry punkt wyjścia dla tej mąki. Jeśli po kilku wypiekach ciasto wydaje się łatwe w obróbce, następnym razem podnieś do 65% — miąższ będzie bardziej otwarty.
-- **Ilość drożdży:** 1g drożdży suchych to bardzo mało — i tak ma być. Całą robotę wykonuje długa fermentacja w lodówce. Więcej drożdży grozi przerośnięciem ciasta w lodówce.
+- **Ilość drożdży:** 1,5g drożdży suchych to bardzo mało — i tak ma być. Całą robotę wykonuje długa fermentacja w lodówce. Więcej drożdży grozi przerośnięciem ciasta w lodówce.
 - **Czas przy zakwasie:** zakwas wolniej się rozkręca, więc fermentacja główna może trwać bliżej 3 godzin. Oceniaj po objętości i dotyku, nie po zegarku. Przed mieszaniem upewnij się, że zakwas jest w szczycie aktywności (podwojony, z wypukłą powierzchnią, przechodzi test pływania).
 - **Żeliwna płyta:** 10mm żeliwa trzyma naprawdę dużo ciepła. Pierwsza pizza upiecze się najszybciej — potem dawaj płycie 5 minut między pizzami, żeby znów się nagrzała.
 - **Formowanie:** jeśli ciasto się rwie, jest albo niedogarowane, albo za zimne. Daj mu odpocząć 10 minut i spróbuj ponownie.
-- **Skrót na ten sam dzień:** jeśli masz tylko 8–10 godzin, zwiększ ilość drożdży do 2g, prowadź fermentację główną przez 1,5 godziny w 24°C, uformuj kule i resztę czasu trzymaj ciasto w lodówce. Smaku będzie mniej, ale wciąż wyjdzie przyzwoicie.
+- **Skrót na ten sam dzień:** jeśli masz tylko 8–10 godzin, zwiększ ilość drożdży do 3g, prowadź fermentację główną przez 1,5 godziny w 24°C, uformuj kule i resztę czasu trzymaj ciasto w lodówce. Smaku będzie mniej, ale wciąż wyjdzie przyzwoicie.
