@@ -27,3 +27,8 @@ theme = "hugo-book"
     locale = "pl"
     title = "Przepisy kulinarne"
     weight = 2
+  [languages.uk]
+    label = "Українська"
+    locale = "uk"
+    title = "Кулінарні рецепти"
+    weight = 3
